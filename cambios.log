@@ -1,0 +1,314 @@
+[2022-12-11 20:02:30] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 20:05:41] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 20:06:15] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio Andrés
+[2022-12-11 20:06:16] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 20:06:31] [ INFO ] [PacienteService:56] Se inicio el proceso de busqueda de un paciente con email: mabrilv@eafit.edu.co
+[2022-12-11 20:06:31] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Priscila Sofía
+[2022-12-11 20:06:34] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 20:06:37] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 20:06:38] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 20:06:43] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 20:06:43] [ INFO ] [OdontologoService:53] Se inició el proceso de actualización del odontólogo con id: 1
+[2022-12-11 20:06:43] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 20:06:48] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 20:06:50] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 20:06:57] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 20:06:57] [ INFO ] [PacienteService:46] Se inició el proceso de actualización del paciente con id: 1
+[2022-12-11 20:06:57] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 20:07:05] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 20:07:05] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 20:07:05] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-11 20:07:07] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 20:07:20] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Manuela
+[2022-12-11 20:07:24] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 20:07:26] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-11 20:07:31] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-11 20:07:31] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 2
+[2022-12-11 20:07:31] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 20:07:31] [ INFO ] [TurnoService:59] Se inició el proceso de actualización del turno con id: 1
+[2022-12-11 20:07:31] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 20:07:47] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 20:07:49] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 2
+[2022-12-11 20:07:49] [ WARN ] [OdontologoService:44] Se eliminó el odntólogo con id: 2
+[2022-12-11 20:07:51] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 20:08:04] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 20:08:10] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 20:08:10] [ WARN ] [OdontologoService:44] Se eliminó el odntólogo con id: 1
+[2022-12-11 20:08:11] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 20:08:12] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 20:08:12] [ WARN ] [PacienteService:39] Se eliminó el paciente con id: 1
+[2022-12-11 21:09:49] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Diana
+[2022-12-11 21:09:50] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio
+[2022-12-11 21:09:50] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-11 21:09:50] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 21:10:21] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Priscila
+[2022-12-11 21:10:21] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 21:10:21] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 21:10:21] [ INFO ] [OdontologoService:53] Se inició el proceso de actualización del odontólogo con id: 1
+[2022-12-11 21:10:21] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 21:10:21] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 21:10:21] [ WARN ] [OdontologoService:44] Se eliminó el odntólogo con id: 1
+[2022-12-11 21:10:21] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 21:10:44] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Mauricio
+[2022-12-11 21:10:44] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 21:10:44] [ INFO ] [PacienteService:56] Se inicio el proceso de busqueda de un paciente con email: mauricio@gmail.com
+[2022-12-11 21:10:44] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 21:10:44] [ INFO ] [PacienteService:46] Se inició el proceso de actualización del paciente con id: 1
+[2022-12-11 21:10:44] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 21:10:44] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 21:10:44] [ WARN ] [PacienteService:39] Se eliminó el paciente con id: 1
+[2022-12-11 21:10:44] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 21:11:29] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Mauricio
+[2022-12-11 21:11:29] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 21:11:29] [ INFO ] [PacienteService:56] Se inicio el proceso de busqueda de un paciente con email: mauricio@gmail.com
+[2022-12-11 21:11:29] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 21:11:29] [ INFO ] [PacienteService:46] Se inició el proceso de actualización del paciente con id: 1
+[2022-12-11 21:11:29] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 21:11:29] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 21:11:29] [ WARN ] [PacienteService:39] Se eliminó el paciente con id: 1
+[2022-12-11 21:11:29] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 21:36:14] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Diana
+[2022-12-11 21:36:15] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio
+[2022-12-11 21:36:15] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-11 21:36:15] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 21:44:14] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Diana
+[2022-12-11 21:44:14] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 21:56:38] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio
+[2022-12-11 21:56:38] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 22:29:10] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Diana
+[2022-12-11 22:29:10] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio
+[2022-12-11 22:29:10] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-11 22:29:10] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-11 22:29:10] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:29:10] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-11 22:29:10] [ WARN ] [TurnoService:52] Se eliminó el turno con id: 1
+[2022-12-11 22:29:10] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-11 22:30:12] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Diana
+[2022-12-11 22:30:12] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio
+[2022-12-11 22:30:12] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-11 22:30:27] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Diana
+[2022-12-11 22:30:27] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio
+[2022-12-11 22:30:27] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-11 22:30:27] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-11 22:30:27] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:30:27] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-11 22:30:27] [ WARN ] [TurnoService:52] Se eliminó el turno con id: 1
+[2022-12-11 22:30:27] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-11 22:31:04] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Priscila
+[2022-12-11 22:31:04] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 22:31:04] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 22:31:04] [ INFO ] [OdontologoService:53] Se inició el proceso de actualización del odontólogo con id: 1
+[2022-12-11 22:31:04] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 22:31:04] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 22:31:04] [ WARN ] [OdontologoService:44] Se eliminó el odntólogo con id: 1
+[2022-12-11 22:31:04] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 22:31:20] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Diana
+[2022-12-11 22:31:20] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio
+[2022-12-11 22:31:20] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-11 22:31:20] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:31:36] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Diana
+[2022-12-11 22:31:37] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 22:31:53] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Mauricio
+[2022-12-11 22:31:53] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 22:31:53] [ INFO ] [PacienteService:56] Se inicio el proceso de busqueda de un paciente con email: mauricio@gmail.com
+[2022-12-11 22:31:53] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 22:31:53] [ INFO ] [PacienteService:46] Se inició el proceso de actualización del paciente con id: 1
+[2022-12-11 22:31:53] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 22:31:53] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 22:31:53] [ WARN ] [PacienteService:39] Se eliminó el paciente con id: 1
+[2022-12-11 22:31:53] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 22:32:18] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio
+[2022-12-11 22:32:18] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 22:32:31] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Diana
+[2022-12-11 22:32:31] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 22:35:31] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio Andrés
+[2022-12-11 22:35:51] [ INFO ] [PacienteService:56] Se inicio el proceso de busqueda de un paciente con email: mauriciovilladiego1999@gmail.com
+[2022-12-11 22:35:51] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Priscila Sofía
+[2022-12-11 22:35:54] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 22:35:55] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 22:35:57] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:36:22] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 22:36:22] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 22:36:22] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-11 22:36:25] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:36:28] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-11 22:36:28] [ WARN ] [TurnoService:52] Se eliminó el turno con id: 1
+[2022-12-11 22:37:00] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:37:06] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 22:37:06] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 22:37:06] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-11 22:37:08] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:37:09] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 22:37:10] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 22:37:10] [ WARN ] [OdontologoService:44] Se eliminó el odntólogo con id: 1
+[2022-12-11 22:37:13] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:37:15] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 22:37:16] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 22:37:16] [ WARN ] [PacienteService:39] Se eliminó el paciente con id: 1
+[2022-12-11 22:48:33] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:48:51] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio Andrés
+[2022-12-11 22:48:53] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 22:49:03] [ INFO ] [PacienteService:56] Se inicio el proceso de busqueda de un paciente con email: mauriciovilladiego1999@gmail.com
+[2022-12-11 22:49:03] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Priscila Sofía
+[2022-12-11 22:49:05] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 22:49:08] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:49:15] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 22:49:15] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 22:49:15] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-11 22:49:17] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:51:42] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:52:04] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio Andrés
+[2022-12-11 22:52:05] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 22:52:25] [ INFO ] [PacienteService:56] Se inicio el proceso de busqueda de un paciente con email: mauriciovilladiego1999@gmail.com
+[2022-12-11 22:52:25] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Andrea
+[2022-12-11 22:52:34] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Priscila Sofía
+[2022-12-11 22:52:35] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 22:52:39] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 22:52:41] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:53:03] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 22:53:03] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 22:53:03] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-11 22:53:06] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:53:09] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-11 22:53:12] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-11 22:53:12] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 2
+[2022-12-11 22:53:12] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-11 22:53:12] [ INFO ] [TurnoService:59] Se inició el proceso de actualización del turno con id: 1
+[2022-12-11 22:53:12] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:53:22] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:53:36] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 22:53:38] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 22:53:40] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:53:44] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:53:46] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 22:53:54] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 22:53:55] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:54:00] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 22:54:04] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 22:54:07] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-11 22:54:10] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:54:13] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-11 22:54:14] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 2
+[2022-12-11 22:54:14] [ WARN ] [OdontologoService:44] Se eliminó el odntólogo con id: 2
+[2022-12-11 22:54:15] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-11 22:54:15] [ WARN ] [OdontologoService:44] Se eliminó el odntólogo con id: 1
+[2022-12-11 22:54:16] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-11 22:54:59] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio
+[2022-12-11 22:54:59] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-12 14:01:03] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-12 16:53:03] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Priscila
+[2022-12-12 16:53:03] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-12 16:53:03] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-12 16:53:03] [ INFO ] [OdontologoService:53] Se inició el proceso de actualización del odontólogo con id: 1
+[2022-12-12 16:53:03] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-12 16:53:03] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-12 16:53:03] [ WARN ] [OdontologoService:44] Se eliminó el odntólogo con id: 1
+[2022-12-12 16:53:03] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-12 16:53:20] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Mauricio
+[2022-12-12 16:53:20] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-12 16:53:20] [ INFO ] [PacienteService:56] Se inicio el proceso de busqueda de un paciente con email: mauricio@gmail.com
+[2022-12-12 16:53:20] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-12 16:53:20] [ INFO ] [PacienteService:46] Se inició el proceso de actualización del paciente con id: 1
+[2022-12-12 16:53:20] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-12 16:53:20] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-12 16:53:20] [ WARN ] [PacienteService:39] Se eliminó el paciente con id: 1
+[2022-12-12 16:53:20] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-12 16:53:36] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Diana
+[2022-12-12 16:53:36] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio
+[2022-12-12 16:53:36] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-12 16:53:36] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-12 16:53:36] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-12 16:53:36] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-12 16:53:36] [ WARN ] [TurnoService:52] Se eliminó el turno con id: 1
+[2022-12-12 16:53:36] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-12 16:53:52] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio
+[2022-12-12 16:53:52] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-12 16:54:08] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Diana
+[2022-12-12 16:54:08] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-12 16:54:23] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Diana
+[2022-12-12 16:54:23] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio
+[2022-12-12 16:54:23] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-12 16:54:23] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-12 16:56:02] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-12 16:56:13] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-12 16:56:17] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio Andrés
+[2022-12-12 16:56:21] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Priscila Sofía
+[2022-12-12 16:56:37] [ INFO ] [PacienteService:56] Se inicio el proceso de busqueda de un paciente con email: mabrilv@eafit.edu.co
+[2022-12-12 16:56:37] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Andres
+[2022-12-12 16:56:56] [ INFO ] [PacienteService:56] Se inicio el proceso de busqueda de un paciente con email: zeti.keops@gmail.com
+[2022-12-12 16:56:56] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Manuela
+[2022-12-12 16:56:58] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-12 16:57:00] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-12 16:57:02] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-12 16:57:07] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-12 16:57:07] [ INFO ] [OdontologoService:53] Se inició el proceso de actualización del odontólogo con id: 1
+[2022-12-12 16:57:07] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-12 16:57:11] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-12 16:57:13] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 2
+[2022-12-12 16:57:16] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-12 16:57:21] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-12 16:57:21] [ INFO ] [PacienteService:46] Se inició el proceso de actualización del paciente con id: 1
+[2022-12-12 16:57:21] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-12 16:57:38] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-12 16:57:38] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-12 16:57:38] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-12 16:57:39] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-12 16:57:44] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-12 16:57:49] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2022-12-12 16:57:49] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 2
+[2022-12-12 16:57:49] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 2
+[2022-12-12 16:57:49] [ INFO ] [TurnoService:59] Se inició el proceso de actualización del turno con id: 1
+[2022-12-12 16:57:49] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-12 16:57:57] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-12 16:57:57] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-12 16:57:57] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2022-12-12 16:57:59] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-12 16:58:03] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 2
+[2022-12-12 16:58:07] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 2
+[2022-12-12 16:58:07] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 2
+[2022-12-12 16:58:07] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-12 16:58:07] [ INFO ] [TurnoService:59] Se inició el proceso de actualización del turno con id: 2
+[2022-12-12 16:58:07] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-12 16:58:18] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-12 16:58:20] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2022-12-12 16:58:21] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2022-12-12 16:58:21] [ WARN ] [OdontologoService:44] Se eliminó el odntólogo con id: 1
+[2022-12-12 16:58:23] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 2
+[2022-12-12 16:58:23] [ WARN ] [OdontologoService:44] Se eliminó el odntólogo con id: 2
+[2022-12-12 16:58:24] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2022-12-12 16:58:27] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2022-12-12 16:58:28] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2022-12-12 16:58:28] [ WARN ] [PacienteService:39] Se eliminó el paciente con id: 1
+[2022-12-12 16:58:29] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 2
+[2022-12-12 16:58:29] [ WARN ] [PacienteService:39] Se eliminó el paciente con id: 2
+[2023-01-06 13:06:25] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio Andrés
+[2023-01-06 13:07:27] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2023-01-06 13:07:31] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2023-04-03 18:08:29] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2023-04-03 18:08:50] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio Andrés
+[2023-04-03 18:09:07] [ INFO ] [PacienteService:56] Se inicio el proceso de busqueda de un paciente con email: zeti.keops@gmail.com
+[2023-04-03 18:09:07] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Mauricio Andrés
+[2023-04-03 18:09:12] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2023-04-03 18:09:27] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2023-04-03 18:09:27] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2023-04-03 18:09:27] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2023-04-03 18:09:29] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2023-04-03 18:09:32] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
+[2023-04-03 18:09:41] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2023-04-03 18:09:42] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2023-04-03 18:10:10] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2023-04-03 18:10:23] [ INFO ] [OdontologoService:58] Se inició el proceso de búsqueda de los odontólogos
+[2023-04-03 18:10:46] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Priscila Sofía
+[2023-06-29 08:58:42] [ INFO ] [OdontologoService:30] Se inició el proceso de guardado del odontólogo con nombre: Mauricio Andrés
+[2023-06-29 08:58:46] [ INFO ] [PacienteService:51] Se inició el proceso de búsqueda de los pacientes
+[2023-06-29 08:59:01] [ INFO ] [PacienteService:56] Se inicio el proceso de busqueda de un paciente con email: mauriciovilladiego1999@gmail.com
+[2023-06-29 08:59:01] [ INFO ] [PacienteService:26] Se inició el proceso de guardado del paciente con nombre: Mauricio Andrés
+[2023-06-29 08:59:04] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2023-06-29 08:59:22] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2023-06-29 08:59:22] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 2
+[2023-06-29 08:59:22] [ ERROR] [GlobalExceptions:26] Ocurrió un error: Error, no se puede registrar el turno, ya que no existe el odontologo y/o el paciente en la base de datos.
+[2023-06-29 08:59:31] [ INFO ] [OdontologoService:36] Se inició el proceso de búsqueda de un odontólogo con id: 1
+[2023-06-29 08:59:31] [ INFO ] [PacienteService:31] Se inició el proceso de búsqueda de un paciente con id: 1
+[2023-06-29 08:59:31] [ INFO ] [TurnoService:33] Se inició el proceso de guardado del turno con id: null
+[2023-06-29 08:59:33] [ INFO ] [TurnoService:65] Se inició el proceso de búsqueda de los turnos
+[2023-06-29 08:59:37] [ INFO ] [TurnoService:39] Se inició el proceso de búsqueda de un turno con id: 1
